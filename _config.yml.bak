@@ -12,19 +12,7 @@ sass:
 resume_avatar:                  "true"
 resume_name:                    "Kent Huang"
 resume_title:                   "Software Developer"
-resume_contact_email:           "kentwelcome+resume@gmail.com"
-
-# used for the contact button in _layouts/resume.html
-resume_contact_email:           "kentwelcome+resume@gmail.com"
-
-# the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       ""
-resume_contact_address:         ""
-
-resume_header_contact_info:     ""
-display_header_contact_info:    "false"
-
-resume_header_intro: "<p>A \"Full Stack Developer\" from operating system kernel driver, low level system programming, web backend service design and performance tuning based on public cloud environment to engineer style web frontend. Mainly focus on backend system design and developing. Highly interested in Cyber Security areas. Expert in Intel X86/X64 reverse engineering and malware analysis.</p>"
+resume_contact_email:           "kentwelcome@gmail.com"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -41,20 +29,16 @@ resume_section_skills:          true
 resume_section_recognition:     false
 resume_section_links:           false
 resume_section_associations:    false
-# resume_section_interests:       true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
   resume_github_url:            "https://github.com/kentwelcome"
   # resume_twitter_url:           "http://twitter.com/kentwelcome"
-  # resume_dribbble_url:          "https://dribbble.com/jag"
   resume_facebook_url:          "https://www.facebook.com/kentwelcome"
   resume_linkedin_url:          "https://www.linkedin.com/in/kentwelcome"
   # resume_instagram_url:         "insert your Instagram URL here"
   resume_website_url:           "http://about.me/kentwelcome"
-  # resume_medium_url:            "https://medium.com/@jglovier"
-resume_print_social_links:      true
 
 # Design settings
 resume_theme:                   default
@@ -62,3 +46,5 @@ resume_theme:                   default
 # Note: when editing locally, remember to restart
 # your Jekyll server when you edit this file. Changes
 # to _config.yml are only recognized when the server starts
+gems: ['kramdown']
+exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefile']
