@@ -1,12 +1,11 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
-# - organization: PETA
-#   role: Volunteer
-#   year: 2001 &mdash; 2010
-#   url: https://www.peta.org/
-#   summary: Organized fund drives and participated in fundraising events for the benefit of PETA's local Springfield operations.
-
+- organization: Hacks in Taiwan Conference
+  role: Volunteer
+  year: 2012 &mdash; Present
+  url: https://hitcon.org/
+  summary: Volunteer conference staff for technical conference instant interpreting
 
 # - organization: Yale Amnesty International
 #   role: Communications coordinator
