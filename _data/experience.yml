@@ -59,7 +59,7 @@
   tasks: 
     - title: Internal support
     - summarys:
-      - summary: Common models for photo taking, connection with Facebook SDK, fetching Youtube playlist.
+      - summary: Common modules for photo taking, connection with Facebook SDK, fetching Youtube playlist.
     - title: Outsourcing projects
     - summarys:
       - summary: Ezprice iOS App
