@@ -8,7 +8,7 @@
 # Umbo CV
 - company: Umbo Computer Vision
   position: Hacker
-  duration: Spet, 2016 &mdash; Present
+  duration: Spet, 2016 &mdash; Oct, 2018
   tasks:
     - title: Web Backend Service
     - summarys:
@@ -17,6 +17,10 @@
       - summary: Schema design and performance tuning on both NoSQL and SQL databases
       - summary: Build up internal data collection mechanism for Business Intelligence
       - summary: Design and implement the AWS architecture for global operation
+    - title: iPhone App Maintenance
+    - summarys:
+      - summary: Build up iPhone App build/deploy process pipeline
+      - summary: Maintain the exists iPhone APP
 
 # VMFive
 - company: VMFive
