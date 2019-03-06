@@ -5,6 +5,11 @@
 #   duration: Oct, 2013 &mdash; Present
 #   summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
 
+# InfuseAI
+- company: InfuseAI
+  position: Senior Engineer
+  duration: Nov, 2018 &mdash; Present
+
 # Umbo CV
 - company: Umbo Computer Vision
   position: Hacker
@@ -12,15 +17,15 @@
   tasks:
     - title: Web Backend Service
     - summarys:
-      - summary: Design, implement and maintenance the backend API service with scalable architecture
-      - summary: Enhance CI/CD process for entire development team continuity
-      - summary: Schema design and performance tuning on both NoSQL and SQL databases
-      - summary: Build up internal data collection mechanism for Business Intelligence
-      - summary: Design and implement the AWS architecture for global operation
+        - summary: Design, implement and maintenance the backend API service with scalable architecture
+        - summary: Enhance CI/CD process for entire development team continuity
+        - summary: Schema design and performance tuning on both NoSQL and SQL databases
+        - summary: Build up internal data collection mechanism for Business Intelligence
+        - summary: Design and implement the AWS architecture for global operation
     - title: iPhone App Maintenance
     - summarys:
-      - summary: Build up iPhone App build/deploy process pipeline
-      - summary: Maintain the exists iPhone APP
+        - summary: Build up iPhone App build/deploy process pipeline
+        - summary: Maintain the exists iPhone APP
 
 # VMFive
 - company: VMFive
@@ -28,14 +33,14 @@
   duration: Aug, 2015 &mdash; Aug, 2016
   tasks:
     - title: Real-time App Streaming
-    - summarys: 
-      - summary: Build up and performance turning the video audio software encoder for VMFive's App Streaming product from 0 to 1
-      - summary: Design and implement client side software audio decoder on mobile browser
-      - summary: Design and implement the frame control mechanism to reduce the network bandwidth and decoding effort
+    - summarys:
+        - summary: Build up and performance turning the video audio software encoder for VMFive's App Streaming product from 0 to 1
+        - summary: Design and implement client side software audio decoder on mobile browser
+        - summary: Design and implement the frame control mechanism to reduce the network bandwidth and decoding effort
     - title: DevOps
     - summarys:
-      - summary: Security planning of production servers
-      - summary: Adapt agile development process as Scrum Master
+        - summary: Security planning of production servers
+        - summary: Adapt agile development process as Scrum Master
 
 # TrendMicro Software Engineer
 - company: Trend Micro
@@ -44,32 +49,32 @@
   tasks:
     - title: "Virus Scan Engine Developer Team"
     - summarys:
-      - summary: Design and implement new feature of Virus Scan Engine to detect unrecognized real world malwares
-      - summary: Reverse malware binary to analyze the malicious behavior and implement the detection mechanism
-      - summary: Enhance the table search algorithm of anti-virus filter driver in Windows Kernel to improve overall performance of the real-time scan
-      - summary: Sustained Scan Engine for Windows kernel mode filter driver and user mode library on multiple platform. (Windows, Linux, Mac OS X, FreeBSD, Solaris, ...)
-      - summary: Co-work with support engineer to solve and provide suggest solution for customer in very short response time
+        - summary: Design and implement new feature of Virus Scan Engine to detect unrecognized real world malwares
+        - summary: Reverse malware binary to analyze the malicious behavior and implement the detection mechanism
+        - summary: Enhance the table search algorithm of anti-virus filter driver in Windows Kernel to improve overall performance of the real-time scan
+        - summary: Sustained Scan Engine for Windows kernel mode filter driver and user mode library on multiple platform. (Windows, Linux, Mac OS X, FreeBSD, Solaris, ...)
+        - summary: Co-work with support engineer to solve and provide suggest solution for customer in very short response time
     - title: Award
     - summarys:
-      - summary: "Employee of Quarter Award: 2014 Q2"
+        - summary: "Employee of Quarter Award: 2014 Q2"
     - title: Certification
     - summarys:
-      - summary: Advanced Malware Training in Trend Micro
+        - summary: Advanced Malware Training in Trend Micro
 
 # THLight Co. Ltd
 - company: THLight Co. Ltd
   position: iOS Technical Consultant
   duration: Jul, 2011 &mdash; May, 2012
-  tasks: 
+  tasks:
     - title: Internal support
     - summarys:
-      - summary: Common modules for photo taking, connection with Facebook SDK, fetching Youtube playlist.
+        - summary: Common modules for photo taking, connection with Facebook SDK, fetching Youtube playlist.
     - title: Outsourcing projects
     - summarys:
-      - summary: Ezprice iOS App
-      - summary: MyGoNews iOS App
-      - summary: Campus map for blind person for iPad
-      - summary: DVR/NVR viewer for iPhone/iPad
+        - summary: Ezprice iOS App
+        - summary: MyGoNews iOS App
+        - summary: Campus map for blind person for iPad
+        - summary: DVR/NVR viewer for iPhone/iPad
 
 # TrendMicro Summer Intern
 - company: Trend Micro
@@ -78,4 +83,4 @@
   tasks:
     - title: "Virus Scan Engine QA Team"
     - summarys:
-      - summary: Design and implement a web crawler to collect virus sample files from Internet
+        - summary: Design and implement a web crawler to collect virus sample files from Internet
