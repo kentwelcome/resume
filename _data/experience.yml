@@ -7,8 +7,21 @@
 
 # InfuseAI
 - company: InfuseAI
-  position: Senior Engineer
+  position: Senior Engineer (Fully Remote)
   duration: Nov, 2018 &mdash; Present
+  tasks:
+    - title: '<a href="https://github.com/infuseAi/primehub">PrimeHub</a> : A multi-user machine learning platform for Kubernetes'
+    - summarys:
+        - summary: Design and implement the MLOps application based on the Kubernetes system
+        - summary: Handle the operating tasks of the bare metal Kubernetes cluster in the production environment
+        - summary: Design the AWS service architecture for both internal dev infrastructure and production product
+    - title: Open Source Contribution
+    - summarys:
+        - summary: '<a href="https://github.com/InfuseAI/primehub-aws-cdk">PrimeHub-AWS-CDK</a> : A CDK-based AWS infrastructure for PrimeHub'
+        - summary: '<a href="https://github.com/infuseAi/crane">Crane</a> : A desktop application for build and manage your container images'
+    - title: Public Speaking
+    - summarys:
+        - summary: '<a href="https://fosdem.org/2022/schedule/event/container_notebook_images/">FOSDEM 2022 : An easy and elegant way to manage and build your notebook images</a>'
 
 # Umbo CV
 - company: Umbo Computer Vision

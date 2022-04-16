@@ -24,7 +24,7 @@ resume_contact_address:         ""
 resume_header_contact_info:     ""
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>A \"Full Stack Developer\" from operating system kernel driver, low level system programming, web backend service design and performance tuning based on public cloud environment to engineer style web frontend. Mainly focus on backend system design and developing. Highly interested in Cyber Security areas. Expert in Intel X86/X64 reverse engineering and malware analysis.</p>"
+resume_header_intro: "<p>A \"Full Stack Developer\" from operating system kernel driver, low-level system programming, web backend service design, and performance tuning based on public cloud environment to engineer style web frontend. Mainly focus on backend system design and development. Highly interested in cyber security and large-scale distributed systems areas.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
