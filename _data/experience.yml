@@ -18,8 +18,8 @@
     - title: Open Source Contribution
     - summarys:
         - summary: '<a href="https://github.com/InfuseAI/primehub-aws-cdk">PrimeHub-AWS-CDK</a> : A CDK-based AWS infrastructure for PrimeHub'
-        - summary: '<a href="https://github.com/infuseAi/crane">Crane</a> : A desktop application for build and manage your container images'
-    - title: Public Speaking
+        - summary: '<a href="https://github.com/infuseAi/crane">Crane</a> : A desktop application for building and managing your container images'
+    - title: Public Talk
     - summarys:
         - summary: '<a href="https://fosdem.org/2022/schedule/event/container_notebook_images/">FOSDEM 2022 : An easy and elegant way to manage and build your notebook images</a>'
 
