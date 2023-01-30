@@ -10,7 +10,11 @@
   position: Senior Engineer (Fully Remote)
   duration: Nov, 2018 &mdash; Present
   tasks:
-    - title: '<a href="https://github.com/infuseAi/primehub">PrimeHub</a> : A multi-user machine learning platform for Kubernetes'
+    - title: '<a href="https://piperider.io">PipeRider</a> : The Data Reliability Toolkit for Data Pipelines'
+    - summarys:
+        - summary: One of a main contributor of PipeRider open source project
+        - summary: Design and implement the early-stage cloud architecture for SaaS product based on AWS
+    - title: '<a href="https://github.com/infuseAi/primehub">PrimeHub</a> : A multi-user MLOps platform for Kubernetes'
     - summarys:
         - summary: Design and implement the MLOps application based on the Kubernetes system
         - summary: Handle the operating tasks of the bare metal Kubernetes cluster in the production environment
@@ -19,9 +23,11 @@
     - summarys:
         - summary: '<a href="https://github.com/InfuseAI/primehub-aws-cdk">PrimeHub-AWS-CDK</a> : A CDK-based AWS infrastructure for PrimeHub'
         - summary: '<a href="https://github.com/infuseAi/crane">Crane</a> : A desktop application for building and managing your container images'
+        - summary: '<a href="https://github.com/InfuseAI/piperider">Piperider</a> : Data Reliability Tool for SQL-based data source'
     - title: Public Talk
     - summarys:
         - summary: '<a href="https://fosdem.org/2022/schedule/event/container_notebook_images/">FOSDEM 2022 : An easy and elegant way to manage and build your notebook images</a>'
+        - summary: '<a href="https://www.youtube.com/watch?v=LLEf0g0lMZg"> Taipei.py 2022 July : The Story Behind PipeRider Developing (in Mandarin)</a>'
 
 # Umbo CV
 - company: Umbo Computer Vision
