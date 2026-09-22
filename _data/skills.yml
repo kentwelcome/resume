@@ -1,12 +1,14 @@
 # Skills
 
 # Programming Languages
-- skill: Programming Languages - Natively fluent
-  description: C/C++, Golang, Python, JavaScript, x86/x64 Assembly
+- skill: Primary Programming Languages
+  description: C/C++, Go, Python, JavaScript, x86/x64 assembly
 
-- skill: Programming Languages - Conversationally fluent
-  description: Perl, Objective-C, Shell Script
+- skill: Additional Programming Languages
+  description: Perl, Objective-C, shell scripting
 
-# Others
-- skill: Others
-  description: Reverse Engineering x86/x64
+- skill: Cloud & Infrastructure
+  description: AWS, AWS CDK, Kubernetes, CI/CD
+
+- skill: Systems & Security
+  description: Systems programming, Windows kernel drivers, x86/x64 reverse engineering, malware analysis
