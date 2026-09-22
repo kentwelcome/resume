@@ -1,105 +1,107 @@
 # Jobs
-# # VP of Global Communications
-# - company: Springfield International Human Rights Outreach
-#   position: VP of Global Communications
-#   duration: Oct, 2013 &mdash; Present
-#   summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
 
 # InfuseAI
 - company: InfuseAI
   position: Senior Engineer (Fully Remote)
-  duration: Nov, 2018 &mdash; Present
+  duration: Nov 2018 &mdash; Present
   tasks:
-    - title: '<a href="https://piperider.io">PipeRider</a> : The Data Reliability Toolkit for Data Pipelines'
-    - summarys:
-        - summary: One of a main contributor of PipeRider open source project
-        - summary: Design and implement the early-stage cloud architecture for SaaS product based on AWS
-    - title: '<a href="https://github.com/infuseAi/primehub">PrimeHub</a> : A multi-user MLOps platform for Kubernetes'
-    - summarys:
-        - summary: Design and implement the MLOps application based on the Kubernetes system
-        - summary: Handle the operating tasks of the bare metal Kubernetes cluster in the production environment
-        - summary: Design the AWS service architecture for both internal dev infrastructure and production product
-    - title: Open Source Contribution
-    - summarys:
-        - summary: '<a href="https://github.com/InfuseAI/primehub-aws-cdk">PrimeHub-AWS-CDK</a> : A CDK-based AWS infrastructure for PrimeHub'
-        - summary: '<a href="https://github.com/infuseAi/crane">Crane</a> : A desktop application for building and managing your container images'
-        - summary: '<a href="https://github.com/InfuseAI/piperider">Piperider</a> : Data Reliability Tool for SQL-based data source'
-    - title: Public Talk
-    - summarys:
-        - summary: '<a href="https://fosdem.org/2022/schedule/event/container_notebook_images/">FOSDEM 2022 : An easy and elegant way to manage and build your notebook images</a>'
-        - summary: '<a href="https://www.youtube.com/watch?v=LLEf0g0lMZg"> Taipei.py 2022 July : The Story Behind PipeRider Developing (in Mandarin)</a>'
+    - title: AI Agent Workflow Research
+      summarys:
+        - summary: Research and evaluate agent harness workflows, with a focus on human–agent decision-making, review quality, and cognitive burden
+        - summary: Compare agent workflows with baseline coding agents and develop evaluation approaches for tracking changes across workflow and model versions
+    - title: Recce &amp; Recce Cloud
+      summarys:
+        - summary: Contribute to Recce and Recce Cloud development, including cloud infrastructure and product release workflows
+    - title: '<a href="https://piperider.io">PipeRider</a>: A data reliability toolkit for data pipelines'
+      summarys:
+        - summary: Contributed as one of the main developers of the PipeRider open-source project
+        - summary: Designed and implemented the initial AWS cloud architecture for the SaaS product
+    - title: '<a href="https://github.com/infuseAi/primehub">PrimeHub</a>: A multi-user MLOps platform for Kubernetes'
+      summarys:
+        - summary: Designed and implemented MLOps applications on Kubernetes
+        - summary: Operated bare-metal Kubernetes clusters in production
+        - summary: Designed AWS infrastructure for internal development and production environments
+    - title: Open Source Contributions
+      summarys:
+        - summary: '<a href="https://github.com/InfuseAI/primehub-aws-cdk">PrimeHub-AWS-CDK</a>: AWS infrastructure for PrimeHub built with AWS CDK'
+        - summary: '<a href="https://github.com/infuseAi/crane">Crane</a>: A desktop application for building and managing container images'
+        - summary: '<a href="https://github.com/InfuseAI/piperider">PipeRider</a>: A data reliability tool for SQL-based data sources'
+    - title: Public Talks
+      summarys:
+        - summary: '<a href="https://fosdem.org/2022/schedule/event/container_notebook_images/">FOSDEM 2022: An easy and elegant way to manage and build your notebook images</a>'
+        - summary: '<a href="https://www.youtube.com/watch?v=LLEf0g0lMZg">Taipei.py, July 2022: The Story Behind PipeRider Developing (in Mandarin)</a>'
 
 # Umbo CV
 - company: Umbo Computer Vision
   position: Hacker
-  duration: Spet, 2016 &mdash; Oct, 2018
+  duration: Sep 2016 &mdash; Oct 2018
   tasks:
-    - title: Web Backend Service
-    - summarys:
-        - summary: Design, implement and maintenance the backend API service with scalable architecture
-        - summary: Enhance CI/CD process for entire development team continuity
-        - summary: Schema design and performance tuning on both NoSQL and SQL databases
-        - summary: Build up internal data collection mechanism for Business Intelligence
-        - summary: Design and implement the AWS architecture for global operation
-    - title: iPhone App Maintenance
-    - summarys:
-        - summary: Build up iPhone App build/deploy process pipeline
-        - summary: Maintain the exists iPhone APP
+    - title: Backend Services
+      summarys:
+        - summary: Designed, implemented, and maintained scalable backend API services
+        - summary: Improved CI/CD processes across the development team
+        - summary: Designed schemas and tuned performance for SQL and NoSQL databases
+        - summary: Built internal data collection systems for business intelligence
+        - summary: Designed and implemented AWS infrastructure for global operations
+    - title: iOS App Maintenance
+      summarys:
+        - summary: Built the iOS app build and deployment pipeline
+        - summary: Maintained the existing iOS app
 
 # VMFive
 - company: VMFive
   position: Software Developer
-  duration: Aug, 2015 &mdash; Aug, 2016
+  duration: Aug 2015 &mdash; Aug 2016
   tasks:
-    - title: Real-time App Streaming
-    - summarys:
-        - summary: Build up and performance turning the video audio software encoder for VMFive's App Streaming product from 0 to 1
-        - summary: Design and implement client side software audio decoder on mobile browser
-        - summary: Design and implement the frame control mechanism to reduce the network bandwidth and decoding effort
-    - title: DevOps
-    - summarys:
-        - summary: Security planning of production servers
-        - summary: Adapt agile development process as Scrum Master
+    - title: Real-Time App Streaming
+      summarys:
+        - summary: Built and optimized software video and audio encoders for VMFive's app streaming product from the ground up
+        - summary: Designed and implemented a client-side software audio decoder for mobile browsers
+        - summary: Designed and implemented frame control mechanisms to reduce bandwidth usage and decoding overhead
+    - title: DevOps & Team Practices
+      summarys:
+        - summary: Planned security measures for production servers
+        - summary: Served as Scrum Master and helped the team adopt agile development practices
 
-# TrendMicro Software Engineer
+# Trend Micro Software Engineer
 - company: Trend Micro
   position: Senior Software Engineer
-  duration: Sept, 2012 &mdash; Jul, 2015
+  duration: Sep 2012 &mdash; Jul 2015
   tasks:
-    - title: "Virus Scan Engine Developer Team"
-    - summarys:
-        - summary: Design and implement new feature of Virus Scan Engine to detect unrecognized real world malwares
-        - summary: Reverse malware binary to analyze the malicious behavior and implement the detection mechanism
-        - summary: Enhance the table search algorithm of anti-virus filter driver in Windows Kernel to improve overall performance of the real-time scan
-        - summary: Sustained Scan Engine for Windows kernel mode filter driver and user mode library on multiple platform. (Windows, Linux, Mac OS X, FreeBSD, Solaris, ...)
-        - summary: Co-work with support engineer to solve and provide suggest solution for customer in very short response time
+    - title: Virus Scan Engine Development
+      summarys:
+        - summary: Developed scan engine features to detect previously unrecognized malware
+        - summary: Reverse-engineered malware binaries to analyze malicious behavior and implement detection mechanisms
+        - summary: Optimized the table lookup algorithm in a Windows kernel antivirus filter driver to improve real-time scanning performance
+        - summary: Maintained scan engine components, including Windows kernel-mode filter drivers and user-mode libraries across Windows, Linux, Mac OS X, FreeBSD, and Solaris
+        - summary: Worked with support engineers to investigate customer issues and provide timely solutions
     - title: Award
-    - summarys:
-        - summary: "Employee of Quarter Award: 2014 Q2"
-    - title: Certification
-    - summarys:
-        - summary: Advanced Malware Training in Trend Micro
+      summarys:
+        - summary: 'Employee of the Quarter Award: Q2 2014'
+    - title: Training
+      summarys:
+        - summary: Advanced Malware Training at Trend Micro
 
 # THLight Co. Ltd
 - company: THLight Co. Ltd
   position: iOS Technical Consultant
-  duration: Jul, 2011 &mdash; May, 2012
+  duration: Jul 2011 &mdash; May 2012
   tasks:
-    - title: Internal support
-    - summarys:
-        - summary: Common modules for photo taking, connection with Facebook SDK, fetching Youtube playlist.
-    - title: Outsourcing projects
-    - summarys:
-        - summary: Ezprice iOS App
-        - summary: MyGoNews iOS App
-        - summary: Campus map for blind person for iPad
-        - summary: DVR/NVR viewer for iPhone/iPad
+    - title: Internal Development Support
+      summarys:
+        - summary: Developed shared modules for photo capture, Facebook SDK integration, and YouTube playlist retrieval
+    - title: Client Projects
+      summarys:
+        - summary: Ezprice iOS app
+        - summary: MyGoNews iOS app
+        - summary: iPad campus map app for people who are blind
+        - summary: DVR/NVR viewer for iPhone and iPad
 
-# TrendMicro Summer Intern
+# Trend Micro Summer Intern
 - company: Trend Micro
   position: R&D Summer Intern
-  duration: Jul, 2010 &mdash; Aug, 2010
+  duration: Jul 2010 &mdash; Aug 2010
   tasks:
-    - title: "Virus Scan Engine QA Team"
-    - summarys:
-        - summary: Design and implement a web crawler to collect virus sample files from Internet
+    - title: Virus Scan Engine QA
+      summarys:
+        - summary: Designed and implemented a web crawler to collect malware samples from the internet
